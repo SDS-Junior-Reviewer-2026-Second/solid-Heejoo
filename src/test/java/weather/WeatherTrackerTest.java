@@ -1,9 +1,12 @@
 package weather;
 
+import org.junit.jupiter.api.Test;
 import weather.WeatherTracker;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 public class WeatherTrackerTest {
