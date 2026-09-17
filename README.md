@@ -1,3 +1,3 @@
 # 나의 꿈
 
-<img width="316" height="172" alt="Image" src="[https://github.com/user-attachments/assets/2aea2ae3-e227-4bd7-bc49-f7cbb8b6ed7c](https://github.com/user-attachments/assets/2aea2ae3-e227-4bd7-bc49-f7cbb8b6ed7c)" />
+<img width="560" height="398" alt="Image" src="https://github.com/user-attachments/assets/f87a6ccc-9d92-4004-8bc1-a952218f15ad" />
