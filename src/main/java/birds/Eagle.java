@@ -1,6 +1,6 @@
 package birds;
 
-public class Eagle implements Bird {
+public class Eagle implements FlyingBird {
     String currentLocation;
     int numberOfFeathers;
 
